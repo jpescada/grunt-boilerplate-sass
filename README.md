@@ -6,7 +6,7 @@
 * [Sass Gem](http://sass-lang.com/install)
 
 ## Installation
-1. Download the repository: [https://github.com/...ve/master.zip](./archive/master.zip) and rename the extracted folder to your project's name.
+1. Download the repository: [master.zip](https://github.com/jpescada/grunt-boilerplate-sass/archive/master.zip) and rename the extracted folder to your project's name.
 
 1. Move into the directory for your project: `cd my-project`
 
