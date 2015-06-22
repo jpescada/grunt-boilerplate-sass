@@ -2,7 +2,7 @@
   "name": "grunt-boilerplate",
   "version": "1.0.0",
   "description": "Grunt Boilerplate with Sass",
-  "repository": "https://github.com/digital-telepathy/grunt-boilerplate.git",
+  "repository": "https://github.com/jpescada/grunt-boilerplate-sass.git",
   "main": "Gruntfile.js",
   "dependencies": {
     "grunt": "~0.4.5",
